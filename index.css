@@ -4,10 +4,11 @@ body{
 }
 
 .page{
-    height: 60%;
+    height: 40%;
     margin: 0px;
     background: #203c61;
     background: linear-gradient(#0198D9 0%, #D3EEF5 100%);
+    padding-top: 150px;
 }
 
 
@@ -17,4 +18,11 @@ body{
     background: linear-gradient(#D3EEF5 0%, #203c61 0.3%, #080f18 100%);
 }
 #iceberg1{
+}
+#icepyro{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+    height: auto;
 }
