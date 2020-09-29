@@ -7,15 +7,14 @@ body{
     height: 60%;
     margin: 0px;
     background: #203c61;
-    background: radial-gradient(ellipse at bottom, rgba(160, 208, 231, 0.5) 0%, rgba(8, 15, 24, 0.5) 100%);
-    background: linear-gradient(rgba(8, 15, 24, 0.5) 0%, rgba(160, 208, 231, 0.5) 100%);
+    background: linear-gradient(#0198D9 0%, #D3EEF5 100%);
 }
 
 
 .water{
     height: 2000px;
     margin: 0px;
-    background: linear-gradient( #203c61 0%, #080f18 100%);
+    background: linear-gradient(#D3EEF5 0%, #203c61 0.3%, #080f18 100%);
 }
 #iceberg1{
 }
