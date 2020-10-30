@@ -5,12 +5,12 @@ html, body{
     /*background: rgba(160, 208, 231, 0.5);*/
     width: 100%;
     overflow-x: hidden;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
 }
 
 h1{
     font-size: 8em;
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     margin: 0;
     color: #D3EEF5;
     font-weight: normal;
